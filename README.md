@@ -1,7 +1,7 @@
 # Sending a text alert with Twilio
 
-This project shows how to send a text alert with twilio in Python. for the automation this script needs to be scheduled to run as often as necessary.
-Here are the project flow:
+This project shows how to send a text alert with twilio in Python. For the automation this script needs to be scheduled to run as often as necessary.
+Here is the project flow:
 
 1. Read in data. This project uses some fake revenue data for office supplies sales
 2. Loop through the data and create a dictionary with items which revenue meets the target
